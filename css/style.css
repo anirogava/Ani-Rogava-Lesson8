@@ -1,0 +1,11 @@
+.background-img{
+    background-image: url(../img/Group\ 5.jpg);
+    background-repeat: no-repeat;
+    height: 900px;
+    background-position: left top;
+    background-size: cover;
+    display: flex;
+}
+.flex-box{
+    justify-content: space-around;
+}
