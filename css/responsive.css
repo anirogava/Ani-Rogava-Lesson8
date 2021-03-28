@@ -1,0 +1,22 @@
+@media (max-width:345px){
+    .nav-li{
+        justify-content: center;
+    }
+    .title3{
+        font-size: 70px;
+    }
+}
+@media (max-width:1125px){
+    .right-block{
+        margin: 0 auto;
+        
+    }
+    .box:nth-child(3){
+        margin-top:25px;
+
+}
+@media (max-width:762px) {
+    .box:nth-child(1){
+        margin-bottom: 25px;
+    }
+}
